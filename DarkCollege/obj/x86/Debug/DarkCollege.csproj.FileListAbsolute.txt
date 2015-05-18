@@ -1,0 +1,8 @@
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\DarkCollege\DarkCollege\bin\Debug\DarkCollege.exe
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\DarkCollege\DarkCollege\bin\Debug\DarkCollege.pdb
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\DarkCollege\DarkCollege\obj\x86\Debug\DarkCollege.frmDarkCollege.resources
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\DarkCollege\DarkCollege\obj\x86\Debug\DarkCollege.Properties.Resources.resources
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\DarkCollege\DarkCollege\obj\x86\Debug\DarkCollege.csproj.GenerateResource.Cache
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\DarkCollege\DarkCollege\obj\x86\Debug\DarkCollege.exe
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\DarkCollege\DarkCollege\obj\x86\Debug\DarkCollege.pdb
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\DarkCollege\DarkCollege\obj\x86\Debug\DarkCollege.csprojResolveAssemblyReference.cache
